@@ -4,7 +4,8 @@ This is the backend side of a Hello-World web-app using Rails.
 
 ## Hello-React-Front-End
 
-[React Front-end app link]()
+[React Front-end app link](https://github.com/jahongiry/Hello-react-front-end.git)
+[pull request for front end part](https://github.com/jahongiry/Hello-react-front-end/pull/1)
 
 - ![](https://img.shields.io/badge/Github-blueviolet)
 
