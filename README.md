@@ -1,24 +1,82 @@
-# README
+## Hello-Rails-Back-End
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the backend side of a Hello-World web-app using Rails.
 
-Things you may want to cover:
+## Hello-React-Front-End
 
-* Ruby version
+[React Front-end app link]()
 
-* System dependencies
+- ![](https://img.shields.io/badge/Github-blueviolet)
 
-* Configuration
+- ![](https://img.shields.io/badge/Ruby-red)
 
-* Database creation
+- ![](https://img.shields.io/badge/Ruby*on*Rails-red)
 
-* Database initialization
+- ![](https://img.shields.io/badge/PostgreSql-blue)
 
-* How to run the test suite
+- ![](https://img.shields.io/badge/Webpack-blue)
 
-* Services (job queues, cache servers, search engines, etc.)
+### Install & Setup
 
-* Deployment instructions
+To setup and install this sample AlFa Blog project, follow the below steps:
 
-* ...
+- Clone this project by the command:
+
+  ```
+
+  git clone https://github.com/jahongiry/Hello-rails-react_app.git
+
+  ```
+
+- Then switch to the project folder by the bellow query:
+
+  ```
+
+  cd Rails-Ract-Hello-World_app
+
+  ```
+
+- Install the required dependecies with:
+
+  ```
+  bundle install
+  ```
+
+- Install yarn dependencies with:
+
+  ```
+
+  yarn install
+
+  ```
+
+- Before running below commands update [config/database.yml](./config/database.yml) with your local `DB`credentials. Then run:
+  `rake db:create `
+
+  `rake db:migrate `
+
+- With Ruby on Rails and PostgreSQL installed in your environment, you can run `rails server` to run the website.
+
+### Tests
+
+- Run `bundle install`
+
+- Run `bundle exec rspec spec`
+
+### Prerequisites
+
+- IDE to edit and run the code (We use Visual Studio Code 🔥).
+
+- Git to versionning your work.
+
+- Postgresql
+
+## Author
+
+👤 **Jahongir Yusupov**
+
+- GitHub: [@github](https://github.com/jahongiry)
+- Twitter: [@twitter](https://twitter.com/SafarAli999)
+- LinkedIn: [LinkedIn](https://twitter.com/Zelalem52236790)
+
+## 🤝 Contributing
