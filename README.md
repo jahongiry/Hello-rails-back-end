@@ -57,6 +57,11 @@ To setup and install this sample AlFa Blog project, follow the below steps:
 
 - With Ruby on Rails and PostgreSQL installed in your environment, you can run `rails server` to run the website.
 
+## Built with:
+
+- Ruby on Rails: 'rails', '~> 7.0.4'
+- Ruby version: 'ruby' '3.1.2'
+
 ### Tests
 
 - Run `bundle install`
