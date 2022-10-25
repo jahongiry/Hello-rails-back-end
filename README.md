@@ -24,7 +24,7 @@ To setup and install this sample AlFa Blog project, follow the below steps:
 
   ```
 
-  git clone https://github.com/jahongiry/Hello-rails-react_app.git
+  git clone https://github.com/jahongiry/Hello-rails-back-end.git
 
   ```
 
@@ -32,7 +32,7 @@ To setup and install this sample AlFa Blog project, follow the below steps:
 
   ```
 
-  cd Rails-Ract-Hello-World_app
+  cd Hello-rails-back-end
 
   ```
 
